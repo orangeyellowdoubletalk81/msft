@@ -97,7 +97,7 @@ If you find this work useful, please cite:
 
 ```bibtex
 @misc{koh2026msftaddressingdatasetmixtures,
-      title={mSFT: Addressing Dataset Mixtures Overfiting Heterogeneously in Multi-task SFT}, 
+      title={mSFT: Addressing Dataset Mixtures Overfitting Heterogeneously in Multi-task SFT}, 
       author={Woosung Koh and Jeyoung Jeon and Youngjin Song and Yujin Cheon and Soowon Oh and Jaehyeong Choi and Se-Young Yun},
       year={2026},
       eprint={2603.21606},
