@@ -1,0 +1,33 @@
+{
+    "description": "mSFT on 10 categories mix",
+
+    "log_save": "logs",
+    "ckpt_save": "checkpoints",
+
+    "model_name": "Qwen/Qwen2.5-3B",
+    "precision": "bf16",
+
+    "dataset_file": "data/mix-10cat-18k.json",
+    "fewshot_file": "data/fiveshot.json",
+    "max_length_train": 512,
+    "max_length_test": 700,
+
+    "epochs": 10,
+    "batch_size": 4,
+    "grad_accumulation": 4,
+    "lr": 1e-5,
+    "weight_decay": 0.0,
+    "optimizer": "Adam",
+
+    "scheduler": "constant",
+    "warm_up_ratio": 0.0,
+
+    "test_batch_size": 512,
+    "eval_divisor": 4,
+    "gen_length": 512,
+    "is_zeroshot": false,
+    
+    "log_divisor": 100,
+    "save_divisor": 4,
+    "adaptive_checkpointing": true
+}
