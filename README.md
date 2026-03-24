@@ -1,4 +1,4 @@
-# mSFT: Addressing Dataset Mixtures OverfitingHeterogeneously in Multi-task SFT
+# mSFT: Addressing Dataset Mixtures Overfitting Heterogeneously in Multi-task SFT
 
 ## Setup
 
